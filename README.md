@@ -2,7 +2,7 @@
 
 The `create_inoreader.sh` shell script creates a standalone macOS Inoreader Electron app using [Nativefier](https://github.com/nativefier/nativefier). The custom `inoreader.css` stylesheet enables a better looking title bar, adding room for the windows controls and support for window dragging. 
 
-![Inoreader screenshot](Inoreader screenshot.png)
+![Inoreader screenshot](./Inoreader%20screenshot.png)
 
 The script requires [Nativefier](https://github.com/nativefier/nativefier) to be present, which can be installed from [Homebrew](https://brew.sh/) using `brew install nativefier`. Once the script completes there should be an `Inoreader.app` Electron app in the script folder.
 
