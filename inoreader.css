@@ -1,0 +1,31 @@
+#sb_menu_icon {
+    padding-left: 70px !important;
+}
+
+#sb_tp_search_overlay {
+    left: 110px !important;
+}
+
+#feed_searcher {
+    width: 188px !important;
+}
+
+#sb_reading_part {
+	-webkit-app-region: drag !important;
+}
+
+#cookie_banner {
+    -webkit-app-region: drag !important;
+}
+
+#landing_wrapper .top_wrapper .header {
+    -webkit-app-region: drag !important;
+}
+
+#below_tree_social {
+	display: none !important;
+}
+
+#article_dialog div[id^='sd_'] {
+	display: none !important;
+}
